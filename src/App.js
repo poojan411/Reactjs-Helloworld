@@ -9,11 +9,11 @@ function App() {
         <p>
           Git hub
         </p>
-        <div style={{ backgroundColor:'blue', padding: 2, borderRadius: 10}}>
-          <p>
+        <div style={{ backgroundColor:'#000', padding:12, borderRadius: 10, marginBottom: 14 }}>
+          <p style={{ fontSize: 20}}>
             hello world deploy on github
           </p> 
-          <p>
+          <p style={{ fontSize: 20}}>
            welcome to vasave testing live deploy
           </p> 
         </div>
